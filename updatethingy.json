@@ -1,7 +1,7 @@
 {
-  "homepage": "https://mcreator.net/examplemod",
+  "homepage": "https://github.com/TotalCoder11/lewpack",
   "promos": {
-    "1.14.4-latest": "0.1.5",
-    "1.14.4-recommended": "0.1.1"
+    "1.12.2-latest": "0.1.5",
+    "1.12.2-recommended": "0.1.1"
   }
 }
